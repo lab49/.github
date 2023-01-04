@@ -6,13 +6,13 @@ Our focus on finance and our integrated strategy, design and product development
 
 ## Interesting links
 
-We have a number of interesting things that you can explore. First, we have a few places you can see Lab49 content online, such as:
+We have a number of interesting things that you can explore. First, we have a few places you can see Lab49 content online:
 
 - [LinkedIn](https://www.linkedin.com/company/lab49/)
 - [Twitter](https://twitter.com/lab49)
 - [YouTube](https://www.youtube.com/channel/UCuDfvv_sqCTLoGrDuJrp5Tg)
 
-We also maintain a tech microblog called "Today, We Learned". You can find that right here: https://twl.lab49.com/
+We also maintain a tech microblog called "Today, We Learned". You can find that right here: https://twl.lab49.com/. Lastly, you can find our homepage and our Insights blog at https://lab49.com.
 
 ## Open Source
 
@@ -28,3 +28,9 @@ We maintain a number of open source repositories that you can explore, and more 
 - https://github.com/lab49/quickbits-react-ag-grid-speed-demo
 - https://github.com/lab49/quickbits-recoil-atom-family
 - https://github.com/lab49/quickbits-pagination-showcase
+
+### Lab49 TechTalks
+
+We've published quite a few of these, which you can find on our [YouTube channel](https://www.youtube.com/channel/UCuDfvv_sqCTLoGrDuJrp5Tg). However, most of the TechTalks have code to go along with them. We've consolodated all the repositories under a single library, which you can find here:
+
+- https://github.com/lab49/tech-talk-library
